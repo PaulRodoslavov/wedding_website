@@ -1411,6 +1411,12 @@ body.offcanvas .oliven-nav-toggle {
     }
 }
 
+/* friends */
+
+#friends {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
 
 /* ======= Friends style ======= */
 
@@ -1477,6 +1483,11 @@ body.offcanvas .oliven-nav-toggle {
 
 
 /* ===== Organization style  ===== */
+
+#organization {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
 .organization .bord-box {
     overflow: hidden;
@@ -1588,6 +1599,9 @@ body.offcanvas .oliven-nav-toggle {
 
 /* =====  Gallery style  ===== */
 
+#gallery {
+    padding-top: 15px;
+}
 .gallery-menu li a {
     cursor: pointer;
     display: block;
@@ -1678,6 +1692,10 @@ body.offcanvas .oliven-nav-toggle {
 
 /* ===== When & Where style ===== */
 
+#whenwhere {
+    padding-bottom: 15px;
+    padding-top: 0px;
+}
 .whenwhere .item {}
 
 .whenwhere .item .whenwhere-img {
