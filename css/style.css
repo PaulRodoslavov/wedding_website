@@ -1577,6 +1577,13 @@ body.offcanvas .oliven-nav-toggle {
 
 /* ======= See You style ======= */
 
+@media screen and (max-width: 480px) {
+  #seeyou {
+    background-position: 45%;
+    background-size: 200%;
+  }
+}
+
 .seeyou .section-head span {
     color: #fff;
     font-size: 30px;
